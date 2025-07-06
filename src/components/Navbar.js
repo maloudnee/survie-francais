@@ -8,7 +8,7 @@ function NavBar () {
     return (
         <Navbar fixed="top">
             <Container>
-                <Navbar.Brand href="#">Survie Francais</Navbar.Brand>
+                <Navbar.Brand href="#">Survie Français</Navbar.Brand>
                 <Nav className="me-auto">
                     <Nav.Link href="#home">Home</Nav.Link>
                     <Nav.Link href="#course">Course</Nav.Link>

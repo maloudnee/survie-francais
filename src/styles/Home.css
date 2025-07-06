@@ -1,0 +1,27 @@
+.home {
+    text-align: center;
+    padding: 4rem 2rem;
+    background-color: #FFFF;
+}
+
+.home-image {
+    width: 243px;
+    max-width: 100%;
+    margin-bottom: 2rem;
+}
+
+.start-button {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    background-color: #BE2427;
+    color: #FFFF;
+    text-decoration: none; 
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+    background-color:#bf5f61; 
+}
